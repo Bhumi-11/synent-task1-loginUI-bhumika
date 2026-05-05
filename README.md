@@ -54,7 +54,3 @@ loginUI/
 Bhumika
 
 ---
-
-## 📌 Note
-
-This project is created as part of internship task submission.
